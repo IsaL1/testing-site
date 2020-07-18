@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+
+}
+
+.header {
+    background-color: #fff1bf;
+    color: #fcc76a;
+    width: 100%;
+    height: 190px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    font-family: 'Bebas Neue', cursive;
+    /*font-family: 'Rowdies', cursive;*/
+
+}
+
+.bio-box {
+    background-color: #7e93a8;
+    height: 800px;
+    float: left;
+    width: 70%;
+}
+
+.bio-pic {
+    float: right;
+    width: 0%;
+    height: 0px;
+}
+
+.bio {
+    color: white;
+    padding: 50px 50px 50px 50px;
+    font-size: 20px;
+    line-height: 50px;
+    font-family: 'Bebas Neue', cursive;
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+
+}
+
+.mail-icon {
+    width: 0px;
+    margin: 20px 0px 0px 0px;
+}
